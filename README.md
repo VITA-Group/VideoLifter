@@ -16,7 +16,7 @@ This repository is the official implementation of VideoLifter, an efficient SfM-
 - [Table of Contents](#table-of-contents)
 - [Get Started](#get-started)
   - [Installation](#installation)
-  - [Data Preparation](#Data Preparation)
+  - [Data Preparation](#data-preparation)
   - [Usage](#usage)
 - [Citation](#citation)
 
