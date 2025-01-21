@@ -1,0 +1,16 @@
+# ninja log v5
+1	11543	1714680537417068775	/ssd2/wenyan/progressive_instantsplat/instantsplat_v1_2/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	331922458cae4325
+1	19738	1714680545613083567	/ssd2/wenyan/progressive_instantsplat/instantsplat_v1_2/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	f0ac36c2b0bc138b
+1	45565	1714680571437131451	/ssd2/wenyan/progressive_instantsplat/instantsplat_v1_2/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	e95c1c74e3a3e0dd
+33	11042	1714682010509224550	/ssd2/wenyan/progressive_instantsplat/instantsplat_v1_2/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	413da4f1b4999930
+33	13556	1714682013025232694	/ssd2/wenyan/progressive_instantsplat/instantsplat_v1_2/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	5399e9df1abae894
+33	38035	1714682037501311972	/ssd2/wenyan/progressive_instantsplat/instantsplat_v1_2/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	e3233202b0b20d91
+32	11367	1714682428954590267	/ssd2/wenyan/progressive_instantsplat/instantsplat_v1_2/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	d1c5c5ff3ddda1e8
+31	18903	1714682436494615035	/ssd2/wenyan/progressive_instantsplat/instantsplat_v1_2/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	f0ac36c2b0bc138b
+32	50170	1714682467738717711	/ssd2/wenyan/progressive_instantsplat/instantsplat_v1_2/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	459b87501f988f44
+9	12288	1737433811500329664	/ssd2/wenyan/progressive_instantsplat/VideoLifter/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	712c403470913628
+8	20435	1737433819652336961	/ssd2/wenyan/progressive_instantsplat/VideoLifter/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	dd1247425535cfe
+9	52832	1737433852040365921	/ssd2/wenyan/progressive_instantsplat/VideoLifter/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	29d880d370cb2c06
+33	12251	1737437382091029744	/ssd2/wenyan/progressive_instantsplat/VideoLifter/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/simple_knn.o	825ae2855318e17a
+32	21185	1737437391027035466	/ssd2/wenyan/progressive_instantsplat/VideoLifter/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/ext.o	773f758e921f1700
+33	52149	1737437421987055453	/ssd2/wenyan/progressive_instantsplat/VideoLifter/submodules/simple-knn/build/temp.linux-x86_64-cpython-310/spatial.o	f1ba886369045515

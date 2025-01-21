@@ -1,0 +1,6 @@
+[submodule "submodules/dust3r"]
+	path = submodules/dust3r
+	url = https://github.com/naver/dust3r.git
+[submodule "submodules/mast3r"]
+	path = submodules/mast3r
+	url = https://github.com/naver/mast3r.git

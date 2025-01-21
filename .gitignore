@@ -1,0 +1,19 @@
+# Ignore Python cache files
+*.pyc
+__pycache__/
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore output folder
+output/
+dist/
+
+# Ignore secrets
+.env
+*.key
+*.pem
+
+# Ignore checkpoints
+*.pth

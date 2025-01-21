@@ -1,0 +1,10 @@
+# ninja log v5
+0	5669	1712237762499079724	/home/workspace/project/Fewshot/instantsplat/instantsplat/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/simple_knn.o	7930002078d54203
+0	9251	1712237766083276049	/home/workspace/project/Fewshot/instantsplat/instantsplat/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/ext.o	e0501f23c0c86d
+0	28035	1712237784860304484	/home/workspace/project/Fewshot/instantsplat/instantsplat/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/spatial.o	d56b5e9c7090f718
+0	5110	1712673775508338583	/home/workspace/project/Fewshot/instantsplat/instantsplat_camera_ready/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/simple_knn.o	a83d3c0b9c0a50e3
+0	8094	1712673778492683295	/home/workspace/project/Fewshot/instantsplat/instantsplat_camera_ready/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/ext.o	4765b6e9b4a7bb63
+0	24409	1712673794798538522	/home/workspace/project/Fewshot/instantsplat/instantsplat_camera_ready/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/spatial.o	6ed50d6e2f41f2fe
+0	5435	1713510671358185859	/home/workspace/project/Fewshot/instantsplat/instantsplat_release_version/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/simple_knn.o	9345a122cb90d2f9
+0	8876	1713510674798312871	/home/workspace/project/Fewshot/instantsplat/instantsplat_release_version/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/ext.o	cc897d427c2f21e5
+1	27065	1713510692978983369	/home/workspace/project/Fewshot/instantsplat/instantsplat_release_version/submodules/simple-knn/build/temp.linux-x86_64-cpython-311/spatial.o	c8a04b2c44b96f2e
