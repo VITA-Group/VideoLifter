@@ -266,7 +266,7 @@ def save_gaussian(gaussian, model_path, iteration):
     gaussian.save_ply(os.path.join(point_cloud_path, "point_cloud.ply"))
 
 def training(dataset, opt, pipe, testing_iterations, saving_iterations, checkpoint_iterations, checkpoint, debug_from, args):
-    sparse_recon_res_path = os.path.join(args.sparse_image_folder, f"sparse/0/sparse_{args.n_views}.pkl")
+    sparse_recon_res_path = os.path.join(args.model_path, f"sparse/0/sparse_{args.n_views}.pkl")
     with open(sparse_recon_res_path, 'rb') as file:
         sparse_recon_res = pickle.load(file)
     sparse_low_size = sparse_recon_res["low_size"]
