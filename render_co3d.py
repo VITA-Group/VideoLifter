@@ -101,7 +101,7 @@ def render_set_optimize(model_path, name, iteration, views, gaussians, pipeline,
         train_poses[ii] = np.linalg.inv(train_poses[ii])  # c2w
 
 
-    sparse_recon_res_path = os.path.join(source_image_path.replace("images",""), f"sparse/0/sparse_{args.n_views}.pkl")
+    sparse_recon_res_path = os.path.join(args.model_path, f"sparse/0/sparse_{args.n_views}.pkl")
     with open(sparse_recon_res_path, 'rb') as file:
         sparse_recon_res = pickle.load(file)
     sparse_extrinsics = sparse_recon_res["extrinsics"]

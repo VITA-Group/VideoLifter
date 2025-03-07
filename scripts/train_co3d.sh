@@ -46,6 +46,7 @@ run_on_gpu() {
     # (1) Sparse Point-Based Fragment Registration with 3D Priors
     CUDA_VISIBLE_DEVICES=${GPU_ID} python ./sparse_co3d.py \
     -s ${SOURCE_PATH} \
+    --output_path ${MODEL_PATH}sparse/0/sparse_${N_VIEW}.pkl \
     --n_views ${N_VIEW}
  
     # (2) Hierarchical 3D Gaussian Alignment

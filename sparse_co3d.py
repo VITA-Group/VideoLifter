@@ -444,6 +444,10 @@ if __name__ == '__main__':
 
     if args.output_path is None:
         args.output_path = os.path.join(args.source_path, f"sparse/0/sparse_{args.n_views}.pkl")
+    else:
+        output_dir = os.path.dirname(args.output_path)
+        if not os.path.exists(output_dir):
+            os.makedirs(output_dir)
 
     model = AsymmetricMASt3R.from_pretrained(args.model_name).to('cuda')
 
